@@ -1,0 +1,6 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Soekris DAC controller/Soekris DAC controller.vcxproj" />
+</Solution>
